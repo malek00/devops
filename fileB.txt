@@ -1,1 +1,1 @@
-"my file B changes 1" 
+"my file B changes 2" 
